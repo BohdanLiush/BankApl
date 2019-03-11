@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="standart_55">55dp</dimen>
+    <dimen name="standard_105">105dp</dimen>
+    <dimen name="standard_155">155dp</dimen>
+    <dimen name="popup_width">350dp</dimen>
+    <dimen name="popup_height">500dp</dimen>
+
+
+
+
+
+</resources>
